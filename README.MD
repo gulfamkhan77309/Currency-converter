@@ -5,9 +5,9 @@ A simple and responsive **Currency Converter** web application built using **HTM
 ---
 
 ## 🌐 Live Demo
-👉  https://gulfamkhan77309.github.io/Currency-converter/
+    https://gulfamkhan77309.github.io/Currency-converter/
 
-     https://currency-converter-lo9k.vercel.app/
+    https://currency-converter-lo9k.vercel.app/
 
 
 ## 📸 Screenshot
